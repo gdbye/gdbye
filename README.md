@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gdbye
 - 👀 I’m interested in back-end + game development
-- 🌱 I’m currently learning Rīgas Tehniskajā koledža
+- 🌱 I’m currently learning Riga Technical College
